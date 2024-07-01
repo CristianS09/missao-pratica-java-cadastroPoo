@@ -141,9 +141,6 @@ public class CadastroPOO {
                             System.out.println("O id é inválido");
                         }
                     }
-                    if(pessoaJuridica == null && pessoaJuridica == null){
-                        System.out.println("Nenhuma pessoa foi inserida.");
-                    }
                     break;
                 case "5":
                     //Exibir todas as Pessoas
